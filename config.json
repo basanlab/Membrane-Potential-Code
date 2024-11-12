@@ -1,0 +1,5 @@
+{
+    "dump_every":1,
+    "num_steps": 100000,
+    "output_name":"cells"
+}
